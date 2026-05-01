@@ -5,7 +5,7 @@ The project is built using only **HTML** and **CSS**, as part of my learning jou
 
 ## 🚀 Live Demo
 
-[Clipboard Landing Page](https://ahmedel-khouly.github.io/clipboard-landing-page/).
+[Clipboard Landing Page](https://clipboard-landing-page.netlify.app/).
 
 ## 📌 Features
 
